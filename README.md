@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OceanManDiani
+- 👋 Hi, I’m @Mohamed
 - 👀 I’m interested in Quantitative Trading & AI 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Trading and Coding
